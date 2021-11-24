@@ -1,0 +1,11 @@
+Model Information:
+* title:	Playstation 5
+* source:	https://sketchfab.com/3d-models/playstation-5-6f61d1fd09ce466e924a45e0ef7005e8
+* author:	NeloMN1 (https://sketchfab.com/NeloMN1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Playstation 5" (https://sketchfab.com/3d-models/playstation-5-6f61d1fd09ce466e924a45e0ef7005e8) by NeloMN1 (https://sketchfab.com/NeloMN1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
